@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../aes/aes.srcs/sources_1/new/aes_core.v" \
+"../../../../../aes/aes.srcs/sources_1/new/aes_decipher_block.v" \
+"../../../../../aes/aes.srcs/sources_1/new/aes_encipher_block.v" \
+"../../../../APB_AHB_BUS.srcs/sources_1/new/aes_engine.v" \
+"../../../../../aes/aes.srcs/sources_1/new/aes_inv_sbox.v" \
+"../../../../../aes/aes.srcs/sources_1/new/aes_key_mem.v" \
+"../../../../../aes/aes.srcs/sources_1/new/aes_sbox.v" \
+"../../../../APB_AHB_BUS.srcs/sim_1/new/amba_interface.v" \
+"../../../../APB_AHB_BUS.srcs/sources_1/new/bus_width_controller.v" \
+"../../../../APB_AHB_BUS.srcs/sources_1/new/power_manager.v" \
+"../../../../APB_AHB_BUS.srcs/sources_1/new/secure_adaptive_bus.v" \
+"../../../../APB_AHB_BUS.srcs/sim_1/new/tb_secure_adaptive_bus.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

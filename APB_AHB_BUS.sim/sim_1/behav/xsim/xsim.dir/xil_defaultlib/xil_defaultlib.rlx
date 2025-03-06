@@ -1,0 +1,20 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/aes_engine_tb.v,1740851703,verilog,,,,aes_engine_tb,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/amba_interface.v,1740939682,verilog,,C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/bus_width_controller.v,,amba_interface,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/amba_interface_tb.v,1740852389,verilog,,,,amba_interface_tb,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/bus_width_controller_tb.v,1740824050,verilog,,,,bus_width_controller_tb,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/tb_secure_adaptive_bus.v,1740937989,verilog,,,,tb_secure_adaptive_bus,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/aes_engine.v,1740939666,verilog,,C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_inv_sbox.v,,aes_engine,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/bus_width_controller.v,1740939579,verilog,,C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/power_manager.v,,bus_width_controller,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/power_manager.v,1740939596,verilog,,C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/secure_adaptive_bus.v,,power_manager,,,,,,,,
+C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/secure_adaptive_bus.v,1740939554,verilog,,C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/tb_secure_adaptive_bus.v,,secure_adaptive_bus,,,,,,,,
+C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_core.v,1740929572,verilog,,C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_decipher_block.v,,aes_core,,,,,,,,
+C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_decipher_block.v,1740929727,verilog,,C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_encipher_block.v,,aes_decipher_block,,,,,,,,
+C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_encipher_block.v,1740929871,verilog,,C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sources_1/new/aes_engine.v,,aes_encipher_block,,,,,,,,
+C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_inv_sbox.v,1740930047,verilog,,C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_key_mem.v,,aes_inv_sbox,,,,,,,,
+C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_key_mem.v,1740930130,verilog,,C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_sbox.v,,aes_key_mem,,,,,,,,
+C:/Users/ompra/Research/aes/aes.srcs/sources_1/new/aes_sbox.v,1740930244,verilog,,C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/amba_interface.v,,aes_sbox,,,,,,,,

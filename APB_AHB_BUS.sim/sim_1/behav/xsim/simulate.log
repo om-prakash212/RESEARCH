@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Test Case 1: Default 32-bit Mode
+ADDR_WIDTH: 01 | Encrypted Addr: 0000000000000000000012345678abcd | HADDR: 0000000000000000
+Test Case 2: Switching to 64-bit Mode
+ADDR_WIDTH: 10 | Encrypted Addr: 6363636363636363a762bddf5678abcd | HADDR: 000012345678abcd
+Test Case 3: Switching to 16-bit Mode
+ADDR_WIDTH: 00 | Encrypted Addr: 8306c0a414d64e70dab6fb4a7dece95c | HADDR: a762bddffb7a9e5c
+Test Case 4: AMBA Bus Write
+HWRITE_OUT: 1 | HADDR: dab6fb4a7dece95c | HSIZE: 000
+Simulation Completed!
+$finish called at time : 360 ns : File "C:/Users/ompra/Research/APB_AHB_BUS/APB_AHB_BUS.srcs/sim_1/new/tb_secure_adaptive_bus.v" Line 83
